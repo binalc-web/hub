@@ -78,7 +78,7 @@ export default function Layout() {
                   }`}
                 >
                   <Icon size={15} className={isActive ? 'text-[#2563EB]' : 'text-[#6B7280]'} />
-                  <span className="flex-1">{label}</span>
+                  <span className={`flex-1 ${path === '/clients' ? 'text-[#DC2626]' : ''}`}>{label}</span>
                   {badge && !isActive && (
                     <span className={`text-white text-[9px] font-bold rounded-full px-1.5 py-0.5 leading-none ${indigo ? 'bg-[#4F46E5]' : 'bg-gradient-to-r from-[#2563EB] to-[#7C3AED]'}`}>
                       {badge}
