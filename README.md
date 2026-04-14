@@ -1,7 +1,7 @@
 
-  # OtterMon AI - Web UI/UX
+  # Jetpack-workflow
 
-  This is a code bundle for OtterMon AI - Web UI/UX. The original project is available at https://www.figma.com/design/ZmCbtmQqLrk5S67aYmKyFy/OtterMon-AI---Web-UI-UX.
+  This is a code bundle for Jetpack-workflow. The original project is available at https://www.figma.com/design/L0kCvcu9LUBnBRrFEwVFZh/Jetpack-workflow.
 
   ## Running the code
 
